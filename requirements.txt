@@ -1,0 +1,7 @@
+requests
+Pillow
+streamlit
+numpy
+pandas
+plotly
+plost
