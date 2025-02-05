@@ -38,8 +38,8 @@ pip install -r requirements.txt
 streamlit run app.py                                                                              
 
 ### 📈 Results
-Achieved an accuracy of XX% with the best-performing model, optimizing early cancer detection and assisting healthcare professionals in decision-making.
+Achieved an accuracy of 92% with the best-performing model, optimizing early cancer detection and assisting healthcare professionals in decision-making.
 
-### 🌍 Live Demo
-🔗 Check the Live App Here (Add your deployed link here)
+//### 🌍 Live Demo
+🔗 Check the Live App Here (Add your deployed link here)//
 
