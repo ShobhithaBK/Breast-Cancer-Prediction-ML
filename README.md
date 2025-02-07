@@ -27,8 +27,7 @@
 
 ### 🔧 Installation & Usage
 **1️⃣ Clone the Repository**                                              
-🔗 GitHub Repository:  https://github.com/ShobhithaBK/Breast-Cancer-Prediction-ML.git
-cd Breast-Cancer-Prediction                                                  
+🔗 GitHub clone https://github.com/ShobhithaBK/Breast-Cancer-Prediction-ML.git                                                 
 
 **2️⃣ Install Dependencies**                                                                                    
 pip install -r requirements.txt                                        
