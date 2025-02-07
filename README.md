@@ -27,7 +27,7 @@
 
 ### 🔧 Installation & Usage
 **1️⃣ Clone the Repository**                                              
-git clone https://github.com/ShobhithaBK/Breast-Cancer-Prediction.git                                          
+🔗 GitHub Repository: Breast Cancer Prediction ML
 cd Breast-Cancer-Prediction                                                  
 
 **2️⃣ Install Dependencies**                                                                                    
