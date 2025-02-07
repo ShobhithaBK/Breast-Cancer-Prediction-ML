@@ -1,6 +1,5 @@
 # Breast-Cancer-Prediction-ML
 
-
 # 🩺 Breast Cancer Prediction Model
 **Machine Learning | Python | Streamlit | Flask | AWS**
 
@@ -40,6 +39,10 @@ streamlit run app.py
 ### 📈 Results
 Achieved an accuracy of 92% with the best-performing model, optimizing early cancer detection and assisting healthcare professionals in decision-making.
 
-### 🌍 Live Demo
-🔗 Check the Live App Here
+### 📌 Below is a snapshot of the Breast Cancer Prediction Model, showcasing key visualizations and insights from the analysis.
+![prev-1](https://github.com/user-attachments/assets/f849112d-bc1c-4e3c-965d-074cdef75a91)
+![prev-2](https://github.com/user-attachments/assets/1f8675be-6b42-4d0f-9803-54d3aa7be09e)
+![prev-3](https://github.com/user-attachments/assets/dd2e4bb1-3647-4037-a2ce-4a98fbe2c4f3)
+
+
 
